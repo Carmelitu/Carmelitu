@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carmelitu
 - 👀 I’m interested in learn code
-- 🌱 I’m currently learning General Programming
+- 🌱 I’m currently learning C and JavaScript
 - 💞️ I’m looking to collaborate on new things
 - 📫 How to reach me: lucaseijo7@gmail.com
 
