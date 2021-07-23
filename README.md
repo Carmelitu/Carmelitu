@@ -4,7 +4,7 @@
 - 🐩 Why Carmelo? Well, he is my dog :)
 - 🌊 I live in Mar del Plata, Argentina. A beatiful city to be sure.
 - 👀 I am interested in learning how to be a backend developer. I really like to understand the logic of things and that's why I love puzzles.
-- 💎 In 2021, I discovered that programming what I want to do and what I want to live for. I don't think there are words to describe how much I like it, it is a feeling that you know it instantly.
+- 💎 In 2021, I discovered that programming is what I want to do and what I want to live for. I don't think there are words to describe how much I like it, it is a feeling that you know it instantly.
 
 ## Where I study 📖
 - 👩‍🎓 I started studying Programming at the UTN - Mar del Plata in 2021. I finished the first semester with all the subjects passed and an average of 9.6/10.
