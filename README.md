@@ -20,7 +20,7 @@
 
 ## JavaScript 🌐
 
-I am currently learning JavaScript from a very comprehensive course on Udemy. Particularly this course. In my repository you can see the things I have been doing with this language.
+I am currently learning JavaScript from a very comprehensive course on Udemy. Particularly [this](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). In my repository you can see the things I have been doing with this language.
 
 ## C 👨‍💻
 
