@@ -13,7 +13,7 @@
 
 
 
-     *It seems that I enjoy studying it, right?*
+     *It seems that I enjoy studying this, right?*
      
 
 # Skills 🔑
