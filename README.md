@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Carmelitu better known as Lucas Seijo.
 - 🐩 Why Carmelo? Well, he is my dog :)
 - 🌊 I live in Mar del Plata, Argentina. A beatiful city to be sure.
-- 👀 I am interested in learning how to be a backend developer. I really like to understand the logic of things and that's why I love puzzles.
+- 👀 I am interested in learning how to be a backend developer but I want to be a fullstack developer. I really like to understand the logic of things and that's why I love puzzles.
 - 💎 In 2021, I discovered that programming is what I want to do and what I want to live for. I don't think there are words to describe how much I like it, it is a feeling that you know it instantly.
 
 ## Where I study 📖
@@ -20,11 +20,11 @@
 
 ## JavaScript 🌐
 
-- I am currently learning JavaScript from a very comprehensive course on Udemy. Particularly [this](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). In my repository you can see the things I have been doing with this language. At the moment it is the language that I am using the most.
+- I am currently learning JavaScript from a very comprehensive course on Udemy. Particularly [this](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). In my repository you can see the things I have been doing with this language. At the moment it is the language that I am using the most. I used technologies such Async/Await, Fetch API, JSON Server and others. 
 
 ## C 👨‍💻
 
-- C is the first language I knew. I'm still learning it in college and I really like it because of its complexity. In my repository you will find the project with which I finished the semester in the subject of Programming with two colleagues.
+- C is the first language I knew. I'm still learning it in college and I really like it because of its complexity. In my repository you will find the project with which I finished the semester in the subject of Programming with two colleagues. We made an Amazon Prime Video prototype in C with Login and a movie list! It was very fun :)
 
 ## Git 🖇️
 
