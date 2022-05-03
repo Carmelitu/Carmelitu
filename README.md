@@ -1,10 +1,40 @@
  # Who is @Carmelitu?
 ## About Me 👨‍🦱
-- 👋 Hi, I’m @Carmelitu better known as Lucas Seijo.
+- 👋 Hi, I’m Lucas Seijo. I work as a fullstack developer at Lumile Argentina.
 - 🐩 Why Carmelo? Well, he is my dog :)
 - 🌊 I live in Mar del Plata, Argentina. A beatiful city to be sure.
-- 👀 I am interested in learning how to be a backend developer but I want to be a fullstack developer. I really like to understand the logic of things and that's why I love puzzles.
+- 👀 I am interested in the dark side or better known as the backend. I really like to understand the logic of things and that's why I love puzzles.
+- 🪙 Also, I am an enthusiast of the blockchain world. I want to contribute my grain of sand to web3.
 - 💎 In 2021, I discovered that programming is what I want to do and what I want to live for. I don't think there are words to describe how much I like it, it is a feeling that you know it instantly.
+
+# Skills 🔑
+
+## Node.js 🖤
+
+I work with this technologies:
+
+- [Express](https://expressjs.com/)
+- [Moleculer.js](https://moleculer.services/)
+- [ElasticSearch](https://www.elastic.co/)
+- [Mongoose](https://mongoosejs.com/)
+- [Node Postgres](https://node-postgres.com/)
+
+In my free time I create APIs using technologies that I don't work with but I find interesting. Such as:
+- [AWS (Lambda, DynamoDB, CloudWatch)](https://aws.amazon.com/)
+- [Serverless](https://www.serverless.com/)
+- [Redis](https://redis.io/)
+
+## Vue.js 💚
+
+Also I know frontend! It's not my strong but I know how to work with this:
+
+- Vue Router
+- Bootsrap Vue
+- Vuex
+
+## Solidity 🤍
+
+I am learning how to create smart contracts on CryptoZombies. My goal for the future is to be able to merge my passion for the backend and the blockchain world as a developer.
 
 ## Where I study 📖
 - 👩‍🎓 I started studying Programming at the UTN - Mar del Plata in 2021. I finished the first semester with all the subjects passed and an average of 9.6/10.
@@ -15,24 +45,6 @@
 
      *It seems that I enjoy studying this, right?*
      
-
-# Skills 🔑
-
-## JavaScript 🌐
-
-- I am currently learning JavaScript from a very comprehensive course on Udemy. Particularly [this](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). In my repository you can see the things I have been doing with this language. At the moment it is the language that I am using the most. I used technologies such Async/Await, Fetch API, JSON Server and others. 
-
-## C 👨‍💻
-
-- C is the first language I knew. I'm still learning it in college and I really like it because of its complexity. In my repository you will find the project with which I finished the semester in the subject of Programming with two colleagues. We made an Amazon Prime Video prototype in C with Login and a movie list! It was very fun :)
-
-## Git 🖇️
-
-- I learned how to use Git in a Udemy course and thanks to that I know this platform. I put it to constant use for tomorrow when I get to work as a developer and have to know the application well.
-
-## SCRUM ⌚
-
-- I also learned about this agile methodology through Udemy. I have not been able to put it into practice yet, I hope to be able to apply it soon. I find it very interesting and functional for the IT world.
 
 # Contact
 
