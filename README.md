@@ -1,17 +1,27 @@
  # Who is @Carmelitu?
 ## About Me 👨‍🦱
 - 👋 Hi, I’m Lucas Seijo. I work as a fullstack developer at Lumile Argentina.
-- 🐩 Why Carmelo? Well, he is my dog :)
+- 🐩 Why Carmelitu? Well, Carmelo is my dog :)
 - 🌊 I live in Mar del Plata, Argentina. A beatiful city to be sure.
-- 👀 I am interested in the dark side or better known as the backend. I really like to understand the logic of things and that's why I love puzzles.
-- 🪙 Also, I am an enthusiast of the blockchain world. I want to contribute my grain of sand to web3.
 - 💎 In 2021, I discovered that programming is what I want to do and what I want to live for. I don't think there are words to describe how much I like it, it is a feeling that you know it instantly.
+- 🪙 Also, I am an enthusiast of the blockchain world. I want to contribute my grain of sand to web3.
+- 👀 I like to understand the logic of things and that's why I love solving puzzles.
 
 # Skills 🔑
 
-## Node.js 🖤
+## Blockchain 🤍
 
-I work with this technologies:
+This is what I really love and my goal for the future
+
+- Solidity (ERC-721, Ownable and other OpenZeppelin contracts)
+- Ethers.js / web3js
+- Truffle / Ganache
+
+I test my contracts with Mocha and Chai.
+
+## Backend 🖤
+
+I work with Node.js and this technologies:
 
 - [Express](https://expressjs.com/)
 - [Moleculer.js](https://moleculer.services/)
@@ -24,17 +34,16 @@ In my free time I create APIs using technologies that I don't work with but I fi
 - [Serverless](https://www.serverless.com/)
 - [Redis](https://redis.io/)
 
-## Vue.js 💚
+## Frontend 💚
 
-Also I know frontend! It's not my strong but I know how to work with this:
+Also I know frontend!
 
-- Vue Router
-- Bootsrap Vue
-- Vuex
+- Vue
+- React
+- Next.js
+- Bootstrap
+- Next UI
 
-## Solidity 🤍
-
-I am learning how to create smart contracts on CryptoZombies. My goal for the future is to be able to merge my passion for the backend and the blockchain world as a developer.
 
 ## Where I study 📖
 - 👩‍🎓 I started studying Programming at the UTN - Mar del Plata in 2021. I finished the first semester with all the subjects passed and an average of 9.6/10.
@@ -47,6 +56,8 @@ I am learning how to create smart contracts on CryptoZombies. My goal for the fu
      
 
 # Contact
+
+Wow, if you got here maybe it would be good for us to connect :)
 
 - 📫 This is my email: lucaseijo7@gmail.com
 - 🔗 My LinkedIn profile is [here](https://www.linkedin.com/in/lucas-seijo-6b4318aa/)
