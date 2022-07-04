@@ -60,7 +60,7 @@ Also I know frontend!
 Wow, if you got here maybe it would be good for us to connect :)
 
 - 📫 This is my email: lucaseijo7@gmail.com
-- 🔗 My LinkedIn profile is [here](https://www.linkedin.com/in/lucas-seijo-6b4318aa/)
+- 🔗 My LinkedIn profile is [here](https://www.linkedin.com/in/lucas-seijo/)
 
 <!---
 Carmelitu/Carmelitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
