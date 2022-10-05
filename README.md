@@ -24,8 +24,8 @@
 
 ## Frontend 💚
 
-- React
-- React Native
+- React with TypeScript
+- React Native with TypeScript
 - Vue
 - Next.js
 - Bootstrap
