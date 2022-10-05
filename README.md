@@ -9,8 +9,8 @@
 ## Blockchain 🤍
 
 - Solidity
-- Ethers.js / web3js
 - Hardhat
+- Ethers.js / web3js
 - Truffle / Ganache
 - Mocha / Chai (testing)
 
@@ -24,8 +24,9 @@
 
 ## Frontend 💚
 
-- Vue
 - React
+- React Native
+- Vue
 - Next.js
 - Bootstrap
 
@@ -33,8 +34,8 @@
 
 Wow, if you got here maybe it would be good for us to connect :)
 
-- 📫 This is my email: lucaseijo7@gmail.com
 - 🔗 My LinkedIn profile is [here](https://www.linkedin.com/in/lucas-seijo/)
+- 📫 This is my email: lucaseijo7@gmail.com
 
 <!---
 Carmelitu/Carmelitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
