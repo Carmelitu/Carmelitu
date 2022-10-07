@@ -19,7 +19,8 @@
 - Node.js
 - Express
 - Moleculer.js
-- Mongoose
+- MongoDB / Mongoose
+- Serverless
 - Node Postgres
 
 ## Frontend 💚
