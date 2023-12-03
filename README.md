@@ -1,44 +1,22 @@
- # Who is @Carmelitu?
-- 👋 Hi, I’m Lucas Seijo. I work as Fullstack Blockchain Developer! I'm so happy about that.
-- 🐩 Why Carmelitu? Well, Carmelo is my dog :)
-- 🌊 I live in Mar del Plata, Argentina. A beatiful city to be sure.
-- 💎 In 2021, I discovered that programming is what I want to do and what I want to live for. I don't think there are words to describe how much I like it, it is a feeling that you know it instantly.
-- 🪙 Also, I am an enthusiast of the blockchain world. I want to contribute my grain of sand to web3.
-- 🤓 In my spare time, I study some new technology or seek to reinforce something I already know. I'm really active!
+# Lucas Seijo (@Carmelitu)
 
-## Blockchain 🤍
+👋 Hi, I'm Lucas, a Fullstack Developer passionate about creating innovative solutions. Welcome to my personal GitHub space where I showcase my projects and explorations.
 
-- Solidity
-- Hardhat
-- Ethers.js / web3js
-- Truffle / Ganache
-- Mocha / Chai (testing)
+## What I Do
 
-## Backend 🖤
+- 💻 **Back-End Development:** Node.js, NestJS, PostgreSQL (this is my orientation )
+- 🌐 **Front-End Development:** React (TypeScript), Next.js, React Native
+- ☁️ **Cloud:** AWS solutions for scalable and serverless architectures
+- 🚀 **Blockchain Development:** Solidity, Hardhat, Ethers.js
+  
+## Quick Facts
 
-- Node.js
-- Express
-- Moleculer.js
-- MongoDB / Mongoose
-- Serverless
-- Node Postgres
+- 🌊 Living in Mar del Plata, Argentina
+- 💡 Turned my passion for tech into my profession in 2021
+- 🐩 Named after my dog, Carmelo!
+- 📚 Constant learner, always experimenting with new tech
 
-## Frontend 💚
+## Connect with Me
 
-- React with TypeScript
-- React Native with TypeScript
-- Vue
-- Next.js
-- Bootstrap
-
-# Contact
-
-Wow, if you got here maybe it would be good for us to connect :)
-
-- 🔗 My LinkedIn profile is [here](https://www.linkedin.com/in/lucas-seijo/)
-- 📫 This is my email: lucaseijo7@gmail.com
-
-<!---
-Carmelitu/Carmelitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- LinkedIn: [Lucas Seijo](https://www.linkedin.com/in/lucas-seijo/)
+- Email: [lucaseijo7@gmail.com](mailto:lucaseijo7@gmail.com)
